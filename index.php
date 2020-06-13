@@ -55,6 +55,9 @@
                     <li class="nav-item">
                         <a class="nav-link js-scroll" href="#contact">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll" href="./test.php">test</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -518,15 +521,12 @@
                                     </div>
                                     <div class="more-info">
                                         <p class="lead">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                                            expedita aperiam aliquid at.
-                                            Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                                            mollitia inventore?
+
                                         </p>
                                         <ul class="list-ico">
                                             <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                            <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                            <li><span class="ion-email"></span> contact@example.com</li>
+                                            <li><span class="ion-ios-telephone"></span> (61) 0422878608</li>
+                                            <li><span class="ion-email"></span> 13303311859@163.com</li>
                                         </ul>
                                     </div>
                                     <div class="socials">
@@ -549,7 +549,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="copyright-box">
-                            <p class="copyright">Copyright &copy; 2020.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+                            <p class="copyright">Copyright &copy; 2020.Can Yang All rights reserved.</p>
                             <div class="credits"></div>
                         </div>
                     </div>
@@ -582,3 +582,4 @@
 </body>
 
 </html>
+
